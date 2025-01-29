@@ -61,3 +61,13 @@ npm start  # Runs on http://localhost:3000
 # Backend (from /server)
 node index.js  # Runs on http://localhost:5000
 
+#Future Roadmap 🗺️
+Text chat support
+
+Multi-language filters
+
+User authentication
+
+Mobile app integration
+
+Made with ❤️ by Lakshay Bhatia
